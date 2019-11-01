@@ -20,5 +20,5 @@ O desafio é criar uma API REST em **Java** que realiza o CRUD de clientes e con
 > **PS:** fique à vontade para incluir outros itens diferenciais. Todo o seu conhecimento apresentado no desafio contará para a sua avaliação.
 
 ### Como submeter o desafio
-Você deve enviar sua solução para um repositório privado no GitHub e adicionar o usuário git.hub@etaure.com.br como colaborador para que possamos avaliar seu trabalho.
+Você deve enviar sua solução para um repositório privado no GitHub e adicionar o usuário etaure como colaborador para que possamos avaliar seu trabalho.
 Ao finalizar envie um email para recrutamento@etaure.com.br com nome, telefone para contato e link do repositório.
