@@ -4,7 +4,7 @@
 ## Desafio Backend
 ### Complete o desafio abaixo para a gente conhecer mais sobre você:
 
-Objetivos do desafio:
+### Objetivos do desafio:
 
 
 1.Avaliar o raciocínio lógico utilizado pelo candidato para resolver problemas;
@@ -13,7 +13,7 @@ Objetivos do desafio:
 
 
 
-Situação problema:
+### Situação problema:
 
 Obs.: A situação apresentada abaixo é fictícia, construida apenas para elucidar o desafio proposto. 
 
@@ -26,7 +26,7 @@ Para conseguir executar esse projeto, a ETAURE terá que contratar um novo Progr
 
 
 
-Abaixo estão as instruções para execução do desafio:
+### Abaixo estão as instruções para execução do desafio:
 
 1.Aos candidados que pleitearem vagas de programador Backend e analistas de sistemas, desenvolva os algoritmos de acesso e manipulação dos dados e crie uma forma de consultá-los, por exemplo um mecanismo de entrada e saída de dados via console por meio de sua “cidade”, “sexo” e “partido”;
 
@@ -36,13 +36,13 @@ Abaixo estão as instruções para execução do desafio:
 
 
 
-Como Submeter o desafio:
+### Como Submeter o desafio:
 
 Você deve enviar sua solução para um repositório privado no GitHub e adicionar o usuário “etaure” como colaborador, para que possamos avaliar seu trabalho. Ao finalizar, envie um email para recrutamento@etaure.com.br com nome, telefone para contato e link do repositório.
 
 
 
-Segue um exemplo de aplicação feita por nossa equipe:
+### Segue um exemplo de aplicação feita por nossa equipe:
 
 ![](print.jpeg)
 
