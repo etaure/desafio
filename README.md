@@ -4,32 +4,45 @@
 ## Desafio Backend
 ### Complete o desafio abaixo para a gente conhecer mais sobre você:
 
-Escrever em qualquer linguagem um sistema que carregue as informações da Câmara Legislativa e realize as seguintes funções.
+Objetivos do desafio:
 
-O sistema deve ler os arquivos JSON (dividios em 7 arquivos) com dados em anexo e realizar as seguintes operações.
 
-Para programadores Fullstack e Frontend é necessário, além dos algoritmos de backend, desenvolver uma interface gráfica. Para os programadores Backend é necessário desenvolver apenas os algorítimos.
+1.Avaliar o raciocínio lógico utilizado pelo candidato para resolver problemas;
 
-Receber o valor do campo "sexo" e mostrar a lista e o total de pessoas de cada sexo;
-Receber o valor do campo "cidade" e mostrar a lista e o total de pessoas por cidade;
-Receber o valor do campo "partido" e mostrar a lista e o total de pessoas desse partido.
+2.Avaliar as habilidades do candidato em programação. 
 
-Os dados estão divididos em 7 arquivos que precisam ser processados juntos e o resultado deve mostrar o conteúdo de todos.
 
-Obs: Essas operações devem ser combinadas e implementadas com algoritmos próprios.
 
-Os códigos prontos serão desconsiderados.
+Situação problema:
 
-Arquivos que devem ser filtrados estão em anexo
+Obs.: A situação apresentada abaixo é fictícia, construida apenas para elucidar o desafio proposto. 
 
-Exemplo de aplicação feita por nós
+
+A Câmara dos Deputados contratou a ETAURE para desenvolver o sistema chamado “Dados Abertos”, que permite qualquer cidadão obter informações sobre os Deputados brasileiros sem precisar ir pessoalmente ao órgão público ou ter que apresentar requerimento formal de acesso aos dados.
+
+Para isso, a Câmara entregou as fontes de dados em arquivos JSON e solicitou que a ETAURE criasse um sistema que filtre os dados, para que o usuário possa pesquisar informações dos Deputados selecionando os filtros que lhe interessam, como por exemplo, o Estado, cidade, sexo, partido, etc. 
+
+Para conseguir executar esse projeto, a ETAURE terá que contratar um novo Programador/Analista, pois toda a equipe atual está alocada em projetos. Para isso, propôs um desafio aos candidatos à vaga, a fim de saber se eles terão facilidade para lidar com o projeto.
+
+
+
+Abaixo estão as instruções para execução do desafio:
+
+1.Aos candidados que pleitearem vagas de programador Backend e analistas de sistemas, desenvolva os algoritmos de acesso e manipulação dos dados e crie uma forma de consultá-los, por exemplo um mecanismo de entrada e saída de dados via console por meio de sua “cidade”, “sexo” e “partido”;
+
+2.Para programadores Fullstack e Frontend é necessário, além dos algoritmos de acesso e manipulação dos dados, desenvolver uma interface gráfica que servirá como mecanismo de entrada e saída de dados;
+
+3.Os dados, arquivos que acompanham este documento, estão divididos em 7 arquivos JSON que precisam ser processados juntos. 
+
+
+
+Como Submeter o desafio:
+
+Você deve enviar sua solução para um repositório privado no GitHub e adicionar o usuário “etaure” como colaborador, para que possamos avaliar seu trabalho. Ao finalizar, envie um email para recrutamento@etaure.com.br com nome, telefone para contato e link do repositório.
+
+
+
+Segue um exemplo de aplicação feita por nossa equipe:
 
 ![](print.jpeg)
 
-> **PS:** fique à vontade para incluir outros itens diferenciais. Todo o seu conhecimento apresentado no desafio contará para a sua avaliação.
-
-### Como submeter o desafio
-Você deve enviar sua solução para um repositório privado no GitHub e adicionar o usuário etaure como colaborador para que possamos avaliar seu trabalho.
-Ao finalizar envie um email para recrutamento@etaure.com.br com nome, telefone para contato e link do repositório.
-
-Fonte de dados: https://dadosabertos.camara.leg.br/swagger/api.html#api
